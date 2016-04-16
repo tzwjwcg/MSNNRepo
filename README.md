@@ -1,0 +1,2 @@
+# MSNNRepo
+CNTK repo
